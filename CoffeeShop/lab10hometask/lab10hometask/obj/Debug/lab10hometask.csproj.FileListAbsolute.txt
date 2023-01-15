@@ -1,0 +1,11 @@
+c:\users\hassan\documents\visual studio 2015\Projects\lab10hometask\lab10hometask\bin\Debug\lab10hometask.exe.config
+c:\users\hassan\documents\visual studio 2015\Projects\lab10hometask\lab10hometask\bin\Debug\lab10hometask.exe
+c:\users\hassan\documents\visual studio 2015\Projects\lab10hometask\lab10hometask\bin\Debug\lab10hometask.pdb
+c:\users\hassan\documents\visual studio 2015\Projects\lab10hometask\lab10hometask\obj\Debug\lab10hometask.csprojResolveAssemblyReference.cache
+c:\users\hassan\documents\visual studio 2015\Projects\lab10hometask\lab10hometask\obj\Debug\lab10hometask.Form1.resources
+c:\users\hassan\documents\visual studio 2015\Projects\lab10hometask\lab10hometask\obj\Debug\lab10hometask.Properties.Resources.resources
+c:\users\hassan\documents\visual studio 2015\Projects\lab10hometask\lab10hometask\obj\Debug\lab10hometask.csproj.GenerateResource.Cache
+c:\users\hassan\documents\visual studio 2015\Projects\lab10hometask\lab10hometask\obj\Debug\lab10hometask.exe
+c:\users\hassan\documents\visual studio 2015\Projects\lab10hometask\lab10hometask\obj\Debug\lab10hometask.pdb
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\lab10hometask\bin\Debug\CoffeeShop.dll
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\lab10hometask\bin\Debug\CoffeeShop.pdb

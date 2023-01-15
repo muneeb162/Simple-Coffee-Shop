@@ -1,0 +1,5 @@
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShop\bin\Debug\CoffeeShop.dll
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShop\bin\Debug\CoffeeShop.pdb
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShop\obj\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShop\obj\Debug\CoffeeShop.dll
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShop\obj\Debug\CoffeeShop.pdb

@@ -1,0 +1,10 @@
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShopTests\bin\Debug\CoffeeShopTests.dll
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShopTests\bin\Debug\CoffeeShopTests.pdb
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShopTests\bin\Debug\CoffeeShop.dll
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShopTests\bin\Debug\lab10hometask.exe
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShopTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShopTests\bin\Debug\CoffeeShop.pdb
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShopTests\bin\Debug\lab10hometask.pdb
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShopTests\obj\Debug\CoffeeShopTests.csprojResolveAssemblyReference.cache
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShopTests\obj\Debug\CoffeeShopTests.dll
+C:\Users\Hassan\Documents\Visual Studio 2015\Projects\lab10hometask\CoffeeShopTests\obj\Debug\CoffeeShopTests.pdb
